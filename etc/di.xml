@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<config>
+    <type name="Magento\Cms\Helper\Page">
+        <plugin name="scandi_storehreflangscope_plugin" type="Scandi\StoreHreflangScope\Plugin\AddHreflang" sortOrder="10" />
+    </type>
+</config>
