@@ -5,7 +5,7 @@ Scandi_HreflangScope module functionality is represented by the following:
 
 # Installation
 ## Composer Mehod
-1. Run `composer require scandi/module-store-hreflang-scope` in your project directory.
+1. Run `composer require scandi/module-store-hreflang-scope:dev-master` in your project directory.
 2. Run `bin/magento setup:upgrade`.
 
 ## Zip Method (app/code) 
